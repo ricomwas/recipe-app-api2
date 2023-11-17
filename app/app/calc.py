@@ -1,13 +1,7 @@
-"""
-Perform Calculator Functions
-"""
-
+"""Perform Calculator Functions"""
 
 def add(x, y):
+    return x + y
 
-  return x + y
-
-
-def substract(x, y):
-  
-  return y - x
+def subtract(x, y):
+    return y - x
